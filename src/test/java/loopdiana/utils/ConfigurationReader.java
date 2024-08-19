@@ -1,7 +1,6 @@
-package io.loop.test.utillitis;
+package loopdiana.utils;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.util.Properties;
 
 public class ConfigurationReader {

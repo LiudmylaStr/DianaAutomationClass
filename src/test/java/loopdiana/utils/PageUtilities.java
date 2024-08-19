@@ -1,7 +1,10 @@
-package io.loop.test.utillitis;
+package loopdiana.utils;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+
 import java.time.Duration;
+
 import static io.loop.test.utillitis.BrowserUtils.clickWithJS;
 
 public class PageUtilities {

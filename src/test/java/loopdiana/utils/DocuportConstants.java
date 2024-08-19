@@ -1,4 +1,4 @@
-package io.loop.test.utillitis;
+package loopdiana.utils;
 
 public class DocuportConstants {
 

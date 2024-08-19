@@ -1,4 +1,4 @@
-package io.loop.test.utillitis;
+package loopdiana.utils;
 
 public class PracticeConstanst {
     public static final String EXPECTED_DEMOQA_CLICKBUTTOM = "You selected Ok";
