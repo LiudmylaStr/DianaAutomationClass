@@ -5,7 +5,8 @@ import org.openqa.selenium.WebElement;
 
 import java.time.Duration;
 
-import static io.loop.test.utillitis.BrowserUtils.clickWithJS;
+//import static io.loop.test.utilities.BrowserUtils.clickWithJS;
+import static loopdiana.utils.BrowserUtils.clickWithJS;
 
 public class PageUtilities {
     public static void enterTextToTextBox(String FieldName, String faker, int index) throws InterruptedException {
